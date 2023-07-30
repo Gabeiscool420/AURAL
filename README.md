@@ -4,7 +4,7 @@
 # AURAL: (Advanced Understanding and Recognition of Audio Logic)
 
 
-![Audio-Waveform](./images/audio_waveform.gif)
+![Audio-Waveform](AURAL/Untitled_2802x1080.gif)
 <!-------------------------------------------------------------------------------------------->
 <div align="center">
 
