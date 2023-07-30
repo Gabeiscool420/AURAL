@@ -1,5 +1,6 @@
 <!-------------------------------------------------------------------------------------------->
 <div align="center">
+
 # AURAL
 AURAL: (Advanced Understanding and Recognition of Audio Logic)
 
