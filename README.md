@@ -1,8 +1,8 @@
 <!-------------------------------------------------------------------------------------------->
 <div align="center">
 
-# AURAL
-AURAL: (Advanced Understanding and Recognition of Audio Logic)
+# AURAL: (Advanced Understanding and Recognition of Audio Logic)
+
 
 ![Audio-Waveform](./images/audio_waveform.gif)
 <!-------------------------------------------------------------------------------------------->
