@@ -3,8 +3,9 @@
 
 # AURAL: (Advanced Understanding and Recognition of Audio Logic)
 
-
 <img src="waveform.gif" alt="Audio-Waveform" width="40%" height="40%">
+
+</div>
 
 <!-------------------------------------------------------------------------------------------->
 <div align="center">
@@ -12,6 +13,27 @@
 ## 🎧 From Noise to Harmony: An AI Journey in Audio Enhancement 🚀
 
 </div>
+
+<!-------------------------------------------------------------------------------------------->
+<div align="center">
+
+## 🧑‍💼 Authorship
+
+</div>
+
+This work is conducted by:
+
+- **Gabriel A. Lacroix**
+
+  🏢 Independent Researcher, Musician and Developer
+  
+  📧 gabemakesrecords@example.com (Replace this with your actual email)
+  
+  🌐 [Connect on LinkedIn!](https://www.linkedin.com/in/green-alderson-56b930273/)
+
+</div>
+
+---
 
 ---
 <!-------------------------------------------------------------------------------------------->
