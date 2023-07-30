@@ -27,7 +27,7 @@ This work is conducted by:
 
   🏢 Independent Researcher, Musician and Developer
   
-  📧 gabemakesrecords@example.com (Replace this with your actual email)
+  📧 gabemakesrecords@example.com
   
   🌐 [Connect on LinkedIn!](https://www.linkedin.com/in/green-alderson-56b930273/)
 
