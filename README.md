@@ -1,7 +1,7 @@
 # AURAL
 AURAL: (Advanced Understanding and Recognition of Audio Logic)
-![Audio-Waveform](./images/audio_waveform.png)
 
+![Audio-Waveform](./images/audio_waveform.gif)
 <!-------------------------------------------------------------------------------------------->
 <div align="center">
 
