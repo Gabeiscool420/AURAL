@@ -15,28 +15,7 @@
 </div>
 
 <!-------------------------------------------------------------------------------------------->
-<div align="center">
 
-## 🧑‍💼 Authorship
-
-</div>
-
-This work is conducted by:
-
-- **Gabriel A. Lacroix**
-
-  🏢 Independent Researcher, Musician and Developer
-  
-  📧 gabemakesrecords@example.com
-  
-  🌐 [Connect on LinkedIn!](https://www.linkedin.com/in/green-alderson-56b930273/)
-
-</div>
-
----
-
----
-<!-------------------------------------------------------------------------------------------->
 <div align="center">
 
 ### Abstract 📜
@@ -162,3 +141,93 @@ This paper presents a novel approach to enhancing audio quality using deep learn
    - Huang, C. Z. A., Vaswani, A., Uszkoreit, J., Simon, I., Hawthorne, C., Shazeer, N., ... & Chen, D. (2018). Music transformer: Generating music with long-term structure. arXiv preprint arXiv:1809.04281. [Link](https://arxiv.org/abs/1809.04281)
 7. **Transformer-based models for generating symbolic music**: 
    - Huang, C. Z. A., Vaswani, A., Uszkoreit, J., Simon, I., Hawthorne, C., Shazeer, N., ... & Chen, D. (2018). Music transformer: Generating music with long-term structure. arXiv preprint arXiv:1809.04281. [Link](https://arxiv.org/abs/1809.04281)
+
+
+sound_regeneration_project/
+│
+├── data/
+│   ├── raw/
+│   │   ├── audio1.wav
+│   │   ├── audio2.wav
+│   │   └── ...
+│   │
+│   ├── preprocessed/
+│   │   ├── audio1.npy
+│   │   ├── audio2.npy
+│   │   └── ...
+│   │
+│   └── uncompressed/
+│       ├── audio1.wav
+│       ├── audio2.wav
+│       └── ...
+│
+├── models/
+│   ├── noise_reduction/
+│   │   ├── model1.h5
+│   │   └── ...
+│   ├── dynamic_compression/
+│   │   ├── model2.h5
+│   │   └── ...
+│   ├── frequency_expansion/
+│   │   ├── model3.h5
+│   │   └── ...
+│   ├── source_separation/
+│   │   ├── model4.h5
+│   │   └── ...
+│   └── frequency_generation/
+│       ├── model5.h5
+│       └── ...
+│
+├── scripts/
+│   ├── data_preprocessing/
+│   │   ├── load_audio.py
+│   │   ├── normalize_audio.py
+│   │   ├── convert_to_mono.py
+│   │   └── resample_audio.py
+│   │
+│   ├── model_training/
+│   │   ├── train_noise_reduction_model.py
+│   │   ├── train_dynamic_compression_model.py
+│   │   ├── train_frequency_expansion_model.py
+│   │   ├── train_source_separation_model.py
+│   │   └── train_frequency_generation_model.py
+│   │
+│   ├── model_evaluation/
+│   │   ├── evaluate_noise_reduction_model.py
+│   │   ├── evaluate_dynamic_compression_model.py
+│   │   ├── evaluate_frequency_expansion_model.py
+│   │   ├── evaluate_source_separation_model.py
+│   │   └── evaluate_frequency_generation_model.py
+│   │
+│   ├── audio_regeneration/
+│   │   ├── apply_noise_reduction.py
+│   │   ├── apply_dynamic_compression.py
+│   │   ├── apply_frequency_expansion.py
+│   │   ├── apply_source_separation.py
+│   │   ├── apply_frequency_generation.py
+│   │   └── mix_and_master.py
+│   │
+│   └── main.py
+│
+└── README.md
+
+<div align="center">
+
+## 🧑‍💼 Authorship
+
+</div>
+
+This work is conducted by:
+
+- **Gabriel A. Lacroix**
+
+  🏢 Independent Researcher, Musician and Developer
+  
+  📧 gabemakesrecords@example.com
+  
+  🌐 [Connect on LinkedIn!](https://www.linkedin.com/in/green-alderson-56b930273/)
+
+</div>
+
+---
+
