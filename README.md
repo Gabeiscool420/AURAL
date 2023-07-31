@@ -143,7 +143,7 @@ This paper presents a novel approach to enhancing audio quality using deep learn
    - Huang, C. Z. A., Vaswani, A., Uszkoreit, J., Simon, I., Hawthorne, C., Shazeer, N., ... & Chen, D. (2018). Music transformer: Generating music with long-term structure. arXiv preprint arXiv:1809.04281. [Link](https://arxiv.org/abs/1809.04281)
 
 ```bash
-sound_regeneration_project/
+AURAL_sound_regeneration/
 │
 ├── data/
 │   ├── raw/
